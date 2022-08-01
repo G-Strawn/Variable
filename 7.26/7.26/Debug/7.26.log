@@ -1,0 +1,4 @@
+﻿  7_26.c
+C:\Users\50485\source\Practices\7.26\7.26\7_26.c(12,25): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\50485\source\Practices\7.26\7.26\7_26.c(12,25): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  7.26.vcxproj -> C:\Users\50485\source\Practices\7.26\Debug\7.26.exe
